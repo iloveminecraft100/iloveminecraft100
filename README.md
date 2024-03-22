@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to make games and how to code
 - 💞️ I’m looking to collaborate on Maxtomuch 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: steve from minecraft
+- ⚡ Fun fact: Minecraft is my faverot game
 
 <!---
 iloveminecraft100/iloveminecraft100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
